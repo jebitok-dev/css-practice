@@ -29,7 +29,7 @@ main {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     grid-template-areas: "box1 box2"
-    "box3 box3";
+    "box3 .";
 }
 
 .box1 {
