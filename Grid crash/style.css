@@ -29,11 +29,15 @@ main {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     grid-template-areas: "box1 box2"
-    "box3 .";
+    "box3 box3";
+    /* justify-items: center;
+    align-items: center; */
 }
 
 .box1 {
     grid-area: box1;
+    align-self: center;
+    justify-content: space-around;
 }
 
 .box2 {
