@@ -40,7 +40,7 @@ Contributions, issues and feature requests are always welcome!
 
 I love meeting other developers, especially ones that give me advice on how to improve my work.
 
-Feel free to check the [issues page](https://github.com/jebitok-dev/Twitter-Redesign/issues).
+Feel free to check the [issues page](https://github.com/jebitok-dev/css-practice/issues).
 
 ### How to Contribute
 
@@ -51,9 +51,6 @@ To get a local copy up and running follow these simple example steps.
 - git clone https://github.com/your_username/css-practice
 - git checkout develop
 - git checkout -b branch name
-- run ```$ bundle install```
-- $ rails db:create
-- $ rails db:migrate
 - git remote add upstream https://github.com/jebitok-dev/css-practice
 - git pull upstream develop
 - git commit -m "commit message"
